@@ -28,7 +28,7 @@
     "require_certificate": false
   },
   "schema": {
-    "logins": [{ "username": "str", "password": "password" }],
+    "logins": [{ "username": "str", "password": "str" }],
     "anonymous": "bool",
     "customize": {
       "active": "bool",
